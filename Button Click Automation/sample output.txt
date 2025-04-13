@@ -1,0 +1,9 @@
+Since this is a UI automation script, there is no terminal output. However, upon successful execution:
+
+ 1)  A browser will open
+
+ 2)  Credentials will be auto-filled
+
+ 3)  Login button will be clicked
+
+ 4)  Script will wait for 5 seconds before closing
